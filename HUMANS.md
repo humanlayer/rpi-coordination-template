@@ -7,11 +7,12 @@ coordination repo
 
 2. Clone this repo as a sibling to all your other repos:
 
-
+```
 ~/src
   - repo1
   - repo2
   - rpi-coordination
+```
 
 
 3. edit .claude/settings.json to list out all repos you want to work on
