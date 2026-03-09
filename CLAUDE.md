@@ -9,7 +9,7 @@ This is a coordination repo for multiple repositories. The repos you have access
 
 <important if="you are using the rpi:create-research skill">
 
-Check to ensure the repos in question have the latest from the git remote ("origin" or "upstream"
+Check to ensure the repos in question have the latest from the git remote ("origin" or "upstream")
 
 if not, propose pull commands to the user, e.g.
 
