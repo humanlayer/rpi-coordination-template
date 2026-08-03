@@ -1,6 +1,8 @@
 coordination repo
 ---------
 
+⚠️ NOTE - if you are using humanlayer and have found your way to this repo, it is very possible that the [Workspaces feature](https://docs.humanlayer.com/guide/workspaces) obviates the need for a standalone repo, or at least the claude config and additionalRepos part of it. You may still want this setup for shared AGENTS.md, skills, etc.
+
 ### Setup
 
 1. create a new repo from this template
